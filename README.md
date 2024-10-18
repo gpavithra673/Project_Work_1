@@ -63,11 +63,11 @@ Tense consistency: Verifying that the tense used in a sentence or paragraph is c
 The result of the grammar-checking model effectively highlights errors in the input text and provides feedback to the user. When an error is detected, the incorrect part of the sentence is marked, and the system suggests a corrected version. Each sentence is evaluated based on grammatical rules, and a score is generated to reflect the number and type of errors made. The score provides an objective measure of sentence correctness, helping users track their progress. Additionally, the model offers a separate score for the user's fluency and accuracy in speech, ensuring a holistic approach to language assessment. By highlighting specific errors and offering corrective feedback, the tool encourages continuous learning and improvement.
 
 ## References
-[1] James E. Hoard, Richard H. Wojcik, Katherina Holzhauser, “ An Automated Grammar and Style Checker for Writers of Simplified English”, 01 Jan 1992 (Springer, Dordrecht).
-[2] Jeff Hawthorne, Felicity Radcliffe, Leslie A. Whitaker, “Enhancing Semantic Validity in Large Language Model Tasks Through Automated Grammar Checking ”,15 July 2024.
-[3] Wei Li,Houfeng Wang ,”Detection-Correction Structure via General Language Model for Grammatical Error Correction”, 28 May 2024 (Cornell University).
-[4]	Flora Ramírez Bustamante ,Fernando Sánchez León ,”GramCheck: a grammar and style checker”,05 Aug 1996(Charles III University of Madrid,Autonomous University of Madrid)
-[5]	Kostiantyn Omelianchuk ,Andrii Liubonko ,Oleksandr Skurzhanskyi ,Artem N. Chernodub,Oleksandr Korniienko,Igor Samokhin,”Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models”,23 Apr 2024 (The Catholic University of America)
-[6]	Sakshi, Satnam Singh ,Reeta Rautela, “Chatbot: A Bridge Between Technology and Learn”, 06 Oct 2022
-[7]	Pabboz Anushka, M S Reddy, Y.Bala Saketh Reddy, D. Sangeetha Devi, “Chatbot using Machine Learning”, 10 July 2024
+[1] James E. Hoard, Richard H. Wojcik, Katherina Holzhauser, “ An Automated Grammar and Style Checker for Writers of Simplified English”, 01 Jan 1992 (Springer, Dordrecht).<br>
+[2] Jeff Hawthorne, Felicity Radcliffe, Leslie A. Whitaker, “Enhancing Semantic Validity in Large Language Model Tasks Through Automated Grammar Checking ”,15 July 2024.<br>
+[3] Wei Li,Houfeng Wang ,”Detection-Correction Structure via General Language Model for Grammatical Error Correction”, 28 May 2024 (Cornell University).<br>
+[4]	Flora Ramírez Bustamante ,Fernando Sánchez León ,”GramCheck: a grammar and style checker”,05 Aug 1996(Charles III University of Madrid,Autonomous University of Madrid)<br>
+[5]	Kostiantyn Omelianchuk ,Andrii Liubonko ,Oleksandr Skurzhanskyi ,Artem N. Chernodub,Oleksandr Korniienko,Igor Samokhin,”Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models”,23 Apr 2024 (The Catholic University of America)<br>
+[6]	Sakshi, Satnam Singh ,Reeta Rautela, “Chatbot: A Bridge Between Technology and Learn”, 06 Oct 2022<br>
+[7]	Pabboz Anushka, M S Reddy, Y.Bala Saketh Reddy, D. Sangeetha Devi, “Chatbot using Machine Learning”, 10 July 2024<br>
 
