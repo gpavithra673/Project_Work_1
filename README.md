@@ -24,11 +24,15 @@ Named Entity Recognition (NER): Another powerful feature of spaCy is Named Entit
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Speech-to-Text Conversion: Transforms spoken input into text for analysis.
+- Grammar Error Detection: Identifies grammatical errors in the sentence, such as incorrect verb usage, tense, punctuation, or sentence structure.
+- Real-time Feedback: Provides immediate feedback by highlighting errors and suggesting corrected versions of the sentence.
+- Scoring Mechanism: Generates a score based on the grammatical accuracy of the sentence, allowing users to monitor their progress.
+- Speech Fluency Assessment: Evaluates the user’s spoken input based on fluency and pronunciation (without pronunciation checking).
+- Rule-based Analysis: Utilizes a rule-based system to check grammatical correctness efficiently.
+- Adaptive Learning: Tracks progress over time, offering personalized feedback and targeting common mistakes.
+- User-Friendly Interface: Designed to be accessible to students from diverse backgrounds, encouraging continuous learning.
+- Educational Tool: Aims to improve communication skills, particularly for students with limited resources.
 
 ## Requirements
 HARDWARE ENVIRONMENT
