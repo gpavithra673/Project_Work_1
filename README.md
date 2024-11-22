@@ -56,11 +56,13 @@ Tense consistency: Verifying that the tense used in a sentence or paragraph is c
 ![arc](https://github.com/user-attachments/assets/4f891e22-63ec-4dc9-9b37-bea5eaf88f8d)
 
 ## Output
-#### Output1 - Name of the output
-![{F256462A-D36B-4893-88A9-58A2E1688D4A}](https://github.com/user-attachments/assets/aa605c20-7de2-4aca-9df5-679a077f3c99)
+#### Output1 - 
+![Screenshot (115)](https://github.com/user-attachments/assets/cf4f3475-4d25-4439-b0b5-30a35e69d9bd)
+![Screenshot (114)](https://github.com/user-attachments/assets/569a8762-0a1a-4b29-a3f8-1e56a89b8092)
 
 ## Results and Impact
 The result of the grammar-checking model effectively highlights errors in the input text and provides feedback to the user. When an error is detected, the incorrect part of the sentence is marked, and the system suggests a corrected version. Each sentence is evaluated based on grammatical rules, and a score is generated to reflect the number and type of errors made. The score provides an objective measure of sentence correctness, helping users track their progress. Additionally, the model offers a separate score for the user's fluency and accuracy in speech, ensuring a holistic approach to language assessment. By highlighting specific errors and offering corrective feedback, the tool encourages continuous learning and improvement.
+
 
 ## References
 [1] James E. Hoard, Richard H. Wojcik, Katherina Holzhauser, “ An Automated Grammar and Style Checker for Writers of Simplified English”, 01 Jan 1992 (Springer, Dordrecht).<br>
